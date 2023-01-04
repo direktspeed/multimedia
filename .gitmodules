@@ -6,3 +6,7 @@
 	path = "github/lemanschik/obs-websocket#master"
 	url = git@github.com:lemanschik/obs-websocket.git
 	branch = master
+[submodule "github/obs-websocket-community-projects/obs-websocket-js"]
+	path = github/obs-websocket-community-projects/obs-websocket-js
+	url = https://github.com/obs-websocket-community-projects/obs-websocket-js
+	branch = master
