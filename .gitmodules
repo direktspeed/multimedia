@@ -1,0 +1,4 @@
+[submodule "github/direktspeed/multimedia#main"]
+	path = "github/direktspeed/multimedia#main"
+	url = git@github.com:direktspeed/multimedia.git
+	branch = main
