@@ -1,0 +1,12 @@
+[submodule "github/direktspeed/multimedia#main"]
+	path = "github/direktspeed/multimedia#main"
+	url = git@github.com:direktspeed/multimedia.git
+	branch = main
+[submodule "github/lemanschik/obs-websocket#master"]
+	path = "github/lemanschik/obs-websocket#master"
+	url = git@github.com:lemanschik/obs-websocket.git
+	branch = master
+[submodule "github/obs-websocket-community-projects/obs-websocket-js"]
+	path = github/obs-websocket-community-projects/obs-websocket-js
+	url = https://github.com/obs-websocket-community-projects/obs-websocket-js
+	branch = master
